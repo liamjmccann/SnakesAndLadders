@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/liamjmc/SnakesAndLadders.svg?branch=master)](https://travis-ci.com/liamjmc/SnakesAndLadders)
+[![Build Status](https://travis-ci.com/liamjmccann/SnakesAndLadders.svg?branch=master)](https://travis-ci.com/liamjmccann/SnakesAndLadders)
 
 ## Snakes And Ladders
 
